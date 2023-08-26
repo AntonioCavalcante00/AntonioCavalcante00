@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=222cf2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Antonio+Cavalcante;Hey!+Welcome!+:%29)](https://git.io/typing-svg)
+## Hello, welcome to my profile, my name is Antonio Cavalcante
+## I am currently doing the 2nd year of high school at EEEP Adriano Nobre
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCavalcante00&show_icons=true&theme=transparent)
