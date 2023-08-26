@@ -1,7 +1,9 @@
-## Opa, tudo bem? Meu Nome é Antonio, Prazer! Aqui vai meu Portfólio:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=222cf2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Antonio+Cavalcante;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCavalcante00&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCavalcante00&layout=compact&theme=transparent)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
