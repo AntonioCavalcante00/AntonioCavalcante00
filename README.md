@@ -1,6 +1,7 @@
-## Hello, welcome to my profile, my name is Antonio Cavalcante
-## I am currently doing the 2nd year of high school at EEEP Adriano Nobre
+### Hello, welcome to my profile, my name is Antonio Cavalcante <br>  
+### I am currently doing the 2nd year of high school at EEEP Adriano Nobre
 
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCavalcante00&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCavalcante00&layout=compact&theme=transparent)
