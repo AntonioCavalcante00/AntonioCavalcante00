@@ -1,5 +1,5 @@
-### Hello, welcome to my profile, my name is Antonio Cavalcante <br>  
-#### I am currently doing the 2nd year of high school at EEEP Adriano Nobre
+### Olá, seja bem vindo ao meu perfil, meu nome é Antonio Cavalcante <br>  
+#### Atualmente estou cursando o 2º ano do ensino médio na EEEP Adriano Nobre
 
 ##
 
