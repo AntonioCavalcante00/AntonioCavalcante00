@@ -3,7 +3,7 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCavalcante00&show_icons=true&theme=transparent)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=AntonioCavalcante00&show_icons=true&theme=transparent)
 
 ### Skils
 <div style="display: inline_block"><br>
