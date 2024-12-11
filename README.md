@@ -1,6 +1,5 @@
 ### Olá, seja bem vindo ao meu perfil, meu nome é Antonio Cavalcante <br>  
 #### Atualmente estou cursando o 3º ano do ensino médio na EEEP Adriano Nobre, 
-#### estou concluindo o ensino médio em 9 meses.
 
 ##
 
