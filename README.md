@@ -1,33 +1,27 @@
 <br clear="both">
 
-<h2 align="center">Olá 🙋‍♂️, Tudo bem? </h2>
-
-###
-
-<h3 align="left">Prazer, me chamo Antonio Cavalcante</h3>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Midias</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/antonio-cavalcante-b3bb15250/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/antonyo.neto.504/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=0c0ed2&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
 </div>
 
-###
-<br clear="both">
-<h2 align="left">Linguagens e Ferramentas</h2>
 
-###
+#
+
+<p align="left"> Me chamo Antonio Cavalcante, sou estudante de Análise e Desenvolvimentos de Sistemas no Centro Universitário Leonardo da Vinci (UNINTA). Estou sempre em busca de novos desafios e aprendendo coisas novas na área de tecnologia. Adoro transformar conhecimento em soluções criativas que fazem a diferença.</p>
+  
+#
+
+<br clear="both">
+
+<h2 align="left">Connect with me!</h2>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0c0ed2&color:FFF)](mailto:contatodevantoniocavalcant@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0c0ed2&color:FFF)](https://www.linkedin.com/in/antonio-cavalcante-b3bb15250)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0c0ed2&color:FFF)](hhttps://www.instagram.com/antonyo.neto.504/)
+
+<h2 align="left">Lenguages e Tooks</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
@@ -45,15 +39,16 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo"  />
 </div>
 
-###
-
-<div align="center">
+#
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AntonioCavalcante00&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioCavalcante00&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
-###
+#
+<picture align="center">
+<img align="center" src="https://raw.githubusercontent.com/AntonioCavalcante00/AntonioCavalcante00/output/snake.svg" alt="Snake animation" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/AntonioCavalcante00/AntonioCavalcante00/output/snake.svg" alt="Snake animation" />
-
-###
