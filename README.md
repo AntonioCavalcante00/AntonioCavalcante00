@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0c0ed2&color:FFF)](https://www.linkedin.com/in/antonio-cavalcante-b3bb15250)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0c0ed2&color:FFF)](hhttps://www.instagram.com/antonyo.neto.504/)
 
-<h3 align="left">Lenguages e Tooks</h3>
+<h3 align="left">Languages ​​and Tools</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
