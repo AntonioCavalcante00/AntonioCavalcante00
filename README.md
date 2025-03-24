@@ -9,7 +9,7 @@
 
 #
 
-<h3 align="left"> Me chamo Antonio Cavalcante, sou estudante de Análise e Desenvolvimentos de Sistemas no Centro Universitário Leonardo da Vinci (UNINTA). Estou sempre em busca de novos desafios e aprendendo coisas novas na área de tecnologia. Adoro transformar conhecimento em soluções criativas que fazem a diferença.</h3>
+<h3 align="left"> Me chamo Antonio Cavalcante, sou estudante de Análise e Desenvolvimentos de Sistemas no Centro Universitário Leonardo da Vinci (UNIASSELVI). Estou sempre em busca de novos desafios e aprendendo coisas novas na área de tecnologia. Adoro transformar conhecimento em soluções criativas que fazem a diferença.</h3>
   
 #
 
