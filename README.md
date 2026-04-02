@@ -41,14 +41,6 @@
 </div>
 
 #
-<div style="text-align: center;" align="center">
-  <h3>GitHub Stats </h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioCavalcante00&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioCavalcante00&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
-
-#
 <picture align="center">
 <img align="center" src="https://raw.githubusercontent.com/AntonioCavalcante00/AntonioCavalcante00/output/snake.svg" alt="Snake animation" />
 </picture>
